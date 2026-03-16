@@ -1,0 +1,2 @@
+CREATE INDEX idx_product_search_cache_conversation_id
+ON product_search_cache (conversation_id);
